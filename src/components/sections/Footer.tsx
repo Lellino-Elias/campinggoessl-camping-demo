@@ -70,7 +70,7 @@ export default function Footer() {
               ))}
             </div>
             {campsite.logo && (
-              <div className="mt-6 inline-flex items-center rounded-xl bg-white/95 p-3">
+              <div className="mt-6 inline-flex items-center rounded-xl bg-ink p-3">
                 <Image src={campsite.logo.src} alt={campsite.logo.alt} width={120} height={78} className="h-12 w-auto object-contain" />
               </div>
             )}
