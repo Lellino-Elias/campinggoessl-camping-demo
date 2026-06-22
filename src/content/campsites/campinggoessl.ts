@@ -82,7 +82,7 @@ const campinggoessl: CampsiteConfig = {
       {
         title: "Komfort-Sanitär mit ADAC-Bestnote",
         text: "Die Sanitäranlagen wurden im ADAC-Campingführer mit der Bestnote ausgezeichnet: Einzelwaschkabinen, Fußbodenheizung und Babybadewanne.",
-        image: { src: `${IMG}/gallery-843e77c6be.webp`, alt: "Sanitärbereich mit Einzelwaschbecken bei Camping Gößl" },
+        image: { src: `${IMG}/gallery-253cbd12a5.webp`, alt: "Das Sanitärgebäude von Camping Gößl mit dem Toten Gebirge im Hintergrund" },
       },
     ],
   },
